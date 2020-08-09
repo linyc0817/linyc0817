@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+YenChun Lin #EnjoysYourLife
+Hi I'm Barney - A CS student who is interest in HCI & UIUX.
+On the way to becoming a UX Engineer ing~ ✨✨
 <!--
 **linyc0817/linyc0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
