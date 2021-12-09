@@ -3,6 +3,7 @@ Hi I'm Barney 👋 - A CS student who is interest in HCI & UIUX.<br>
 On the way to become a UX Engineer ing~ ✨✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyc0817)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyc0817)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **linyc0817/linyc0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
