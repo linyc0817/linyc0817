@@ -9,7 +9,6 @@ On the way to becoming a UX Engineer ing~ ✨✨
   <img align="left" alt="Barney's GitHub Top Languages" src="https://github-readme-stats-linyc0817.vercel.app/api/top-langs/?username=linyc0817&layout=compact&langs_count=7&hide=html&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" />
   
 </details>
-[![Top Langs](https://github-readme-stats-linyc0817.vercel.app/api/top-langs/?username=linyc0817&layout=compact&langs_count=7&hide=html&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **linyc0817/linyc0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
