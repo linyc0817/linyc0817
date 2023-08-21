@@ -1,9 +1,9 @@
 ## YenChun Lin #EnjoysYourLife
-Hi I'm Barney 👋 - A CS student who is interest in HCI & UIUX.<br>
-On the way to become a UX Engineer ing~ ✨✨
+Hi I'm Barney 👋 - A CS student who is interested in HCI & UIUX.<br>
+On the way to becoming a UX Engineer ing~ ✨✨
 
-[![Barney's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyc0817&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyc0817&layout=compact&langs_count=7&hide=html&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Barney's GitHub stats](https://github-readme-stats-linyc0817.vercel.app/api?username=linyc0817&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats-linyc0817.vercel.app/api/top-langs/?username=linyc0817&layout=compact&langs_count=7&hide=html&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **linyc0817/linyc0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
